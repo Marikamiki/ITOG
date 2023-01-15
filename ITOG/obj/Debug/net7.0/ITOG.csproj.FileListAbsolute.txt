@@ -1,0 +1,15 @@
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.csproj.AssemblyReference.cache
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.AssemblyInfoInputs.cache
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.AssemblyInfo.cs
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.csproj.CoreCompileInputs.cache
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/bin/Debug/net7.0/ITOG
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/bin/Debug/net7.0/ITOG.deps.json
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/bin/Debug/net7.0/ITOG.runtimeconfig.json
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/bin/Debug/net7.0/ITOG.dll
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/bin/Debug/net7.0/ITOG.pdb
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.dll
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/refint/ITOG.dll
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.pdb
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ITOG.genruntimeconfig.cache
+/Users/marikamiki/Desktop/Work/IT/C#/Project/ITOG/obj/Debug/net7.0/ref/ITOG.dll
